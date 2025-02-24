@@ -1,1 +1,4 @@
 # odin-recipes
+In the course of this project, I managed to create four pages; one being the homepage, which consists of three different links to three pages each consisting of recipes to some of my personal favorite dishes. 
+Each of the pages is made up of a purely html page which consists of an image of how the dish looks when ready, followed by a brief description of the meal, then an unordered list of the ingredients, then an ordered list of the steps to preparing the meal and finally a link that takes a user back to the homepage which has the links to the three different recipes. 
+Over this project, I have managed to refresh and put my skill learned over the past few classes to the test and create a meaningful page.
